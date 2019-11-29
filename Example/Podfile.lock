@@ -1,0 +1,23 @@
+PODS:
+  - CCTagLayout (1.0.0)
+  - SDAutoLayout (2.2.1)
+
+DEPENDENCIES:
+  - CCTagLayout (from `../`)
+  - SDAutoLayout (~> 2.2.1)
+
+SPEC REPOS:
+  trunk:
+    - SDAutoLayout
+
+EXTERNAL SOURCES:
+  CCTagLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCTagLayout: d5158c520f57d745cb78472506970d7a6705f4c7
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+
+PODFILE CHECKSUM: 442e120712439873cf7b6e0ad16f3b1f1add1725
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module CCTagLayout {
+  umbrella header "CCTagLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
